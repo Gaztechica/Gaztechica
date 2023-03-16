@@ -13,12 +13,20 @@
    - Работаю с postman: могу создать и пошерить коллекцию запросов и использовать разные environment;
    - Работаю с charles: применяю breakpoints, map local, map remote и rewrite;
    - Работаю с devtools: смотрю состав запросов network;
+
+## Портфолио 🧰
+  -  [My portfolio](https://github.com/Gaztechica)
+
+## Мои контакты
+https://t.me/t.me/Eveningan
+
+
 <!--
 <br />
-## Мои контакты
+
    <a href="https://t.me/t.me/Eveningan/">
 
-### 🧰 Languages and Tools:
+###  Languages and Tools:
 <!--
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
@@ -49,8 +57,8 @@
 
 
 
-## Портфолио 
-  -   [](https://)
+
+
 <details>
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
