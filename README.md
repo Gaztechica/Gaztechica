@@ -1,5 +1,5 @@
 # Привет 👋, я [Евгений !](https://github.com/Gaztechica)    [](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### ## I'm a FrontEnd Developer
+###  I'm a FrontEnd Developer
 ## Занимаюсь версткой сайтов на HTML и CSS и занимаюсь тестированием ПО
 
 - 💪 I like to write code
@@ -13,11 +13,11 @@
    - Работаю с postman: могу создать и пошерить коллекцию запросов и использовать разные environment;
    - Работаю с charles: применяю breakpoints, map local, map remote и rewrite;
    - Работаю с devtools: смотрю состав запросов network;
-
+<!--
 <br />
 ## Мои контакты
    <a href="https://t.me/t.me/Eveningan/">
-<!--
+
 ### 🧰 Languages and Tools:
 <!--
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
