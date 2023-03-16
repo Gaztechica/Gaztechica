@@ -1,4 +1,4 @@
-# Привет 👋, я [Евгений](https://github.com/Gaztechica) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Привет 👋, я [Евгений !](https://github.com/Gaztechica) !   [](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 ###  Я QA Enginner и Занимаюсь версткой сайтов на HTML и CSS
 
 ##  Что умею:
@@ -53,7 +53,7 @@
 <br />
 
 
-<!-- YOUTUBE:END -->
+<!--  -->
 
 <details>
   <summary>:zap: Statistics:</summary>
@@ -138,7 +138,7 @@
 </a>
 
 
-<--
+<!--
 
 a ✨  ✨ 
 
