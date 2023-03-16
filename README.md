@@ -1,25 +1,7 @@
-# Привет 👋, я [Евгений !](https://github.com/Gaztechica) !   [](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-###  Я QA Enginner и Занимаюсь версткой сайтов на HTML и CSS
+# Привет 👋, я [Евгений !](https://github.com/Gaztechica)    [](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### ## I'm a FrontEnd Developer
+## Занимаюсь версткой сайтов на HTML и CSS
 
-##  Что умею:
-   - Умею составлять классные тест-планы;
-   - Создаю детальные баг-репорты;
-   - Разбираюсь в HTTP и REST API;
-   - Пишу простые SQL запросы к БД (умею SELECT и JOIN);
-   - Есть опыт работы с тасктрекером: Trello, Jira и Yandex Tracker;
-   - Работаю с postman: могу создать и пошерить коллекцию запросов и использовать разные environment;
-   - Работаю с charles: применяю breakpoints, map local, map remote и rewrite;
-   - Работаю с devtools: смотрю состав запросов network, меняю куки и тротлю интернет;
-
-
-## Портфолио 
-  -   [](https://)
-  
- 
-
-  
-
-## I'm a FrontEnd Developer
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
 
@@ -54,7 +36,19 @@
 
 
 <!--  -->
+##  Что умею:
+   - Умею составлять классные тест-планы;
+   - Создаю детальные баг-репорты;
+   - Разбираюсь в HTTP и REST API;
+   - Пишу простые SQL запросы к БД (умею SELECT и JOIN);
+   - Есть опыт работы с тасктрекером: Trello, Jira и Yandex Tracker;
+   - Работаю с postman: могу создать и пошерить коллекцию запросов и использовать разные environment;
+   - Работаю с charles: применяю breakpoints, map local, map remote и rewrite;
+   - Работаю с devtools: смотрю состав запросов network, меняю куки и тротлю интернет;
 
+
+## Портфолио 
+  -   [](https://)
 <details>
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
