@@ -57,7 +57,7 @@ https://t.me/t.me/Eveningan
 
 
 
-
+<!--
 
 <details>
   <summary>:zap: Statistics:</summary>
@@ -71,7 +71,7 @@ https://t.me/t.me/Eveningan
 [linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
 [instagram]: https://www.instagram.com/corvaxv/
 [vk]: https://vk.com/vladislavkalachov
-
+<!--
 ## Инструменты и технологии
 
 <p align="left">
