@@ -1,4 +1,4 @@
-# Привет, я [Евгений](https://github.com/Gaztechica) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Привет 👋, я [Евгений](https://github.com/Gaztechica) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 ###  Я QA Enginner и Занимаюсь версткой сайтов на HTML и CSS
 
 ##  Что умею:
@@ -13,31 +13,22 @@
 
 
 ## Портфолио 
-  -   [Mind maps](https://)
+  -   [](https://)
   
-### Hi there 👋, I'm Vlad
+ 
 
-   <p align="left">
-      <a href="https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w?view_as=subscriber">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCkvd2R7fmbs1watlJ6wur_w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630%22/"/></a> 
-      <a href="https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCkvd2R7fmbs1watlJ6wur_w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/VladKalachev?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/VladKalachev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/VladKalachev?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/VladKalachev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+  
 
 ## I'm a FrontEnd Developer, and Teacher
 - 💪 I like to write code
-- 🎉 I love to paint and play the guitar
+
 - 🥅 I am constantly learning new things
-- ⚡ I love writing an article for https://webtricks-master.ru/
-- 🤹🏽 I like to shoot videos for youtube 
+
 
 <br />
 
 ### 🧰 Languages and Tools:
+<!--
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -62,22 +53,7 @@
 
 <br />
 
-### Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Деструктуризация в JavaScript](https://webtricks-master.ru/javascript/destrukturizatsiya-v-javascript/)
-- [Пишем список задач на React Hooks](https://webtricks-master.ru/react-hooks/pishem-spisok-zadach-na-react-hooks/)
-- [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme — React Hooks](https://webtricks-master.ru/react-hooks/custom-hooks-na-primerah-pishem-svoj-useinput-usefetch-usetheme-react-hooks/)
-- [Как подключить Sass к React?](https://webtricks-master.ru/beginners/kak-podklyuchit-sass-k-react/)
-- [Обзор VSCode Stories. Плагины Visual Studio Code](https://webtricks-master.ru/novosti-it/obzor-vscode-stories-plaginy-visual-studio-code/)
-<!-- BLOG-POST-LIST:END -->
 
-### My YouTube Videos:
-<!-- YOUTUBE:START -->
-- [Как найти работу джуну без опыта? пошаговая инструкция](https://www.youtube.com/watch?v=DzyKrIBHln8)
-- [Пишем список задач на React &lpar;React Hooks&rpar;](https://www.youtube.com/watch?v=XwIiBXZ41Os)
-- [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme - React Hooks](https://www.youtube.com/watch?v=VFefv_YSGfY)
-- [Учим useLayoutEffect за 6 минут - React Hooks](https://www.youtube.com/watch?v=KaaH6cra2lo)
-- [Учим useCallback за 7 минут - React Hooks](https://www.youtube.com/watch?v=AqCkWH4ws1Y)
 <!-- YOUTUBE:END -->
 
 <details>
@@ -162,10 +138,10 @@
 <img src="https://github.com/Gaztechica/blob/main/icons/Mail.png " alt="Email" width="50" height="50" />
 </a>
 
-### Hi there 👋
 
-<!--
-**Gaztechica/Gaztechica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+a ✨  ✨ 
 
 Here are some ideas to get you started:
 
@@ -177,4 +153,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ⚡ I love writing an article for 
+- 🤹🏽 I like to shoot videos for youtube 
+- 🎉 I love to paint and play the guitar
 -->
