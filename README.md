@@ -20,7 +20,7 @@
   -  [My portfolio](https://github.com/Gaztechica)
 
 ## Мои контакты
-https://t.me/t.me/Eveningan
+https://t.me/Eveningan
 
 https://yndrab@yandex.ru 
 <!--
