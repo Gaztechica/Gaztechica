@@ -1,6 +1,6 @@
 # Привет 👋, я [Евгений !](https://github.com/Gaztechica)    [](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-##  I'm a FrontEnd Developer
-## Занимаюсь версткой сайтов на HTML / CSS и тестированием ПО
+##  I'm a FrontEnd Developer и QA TESTER
+## Занимаюсь версткой сайтов на HTML / CSS 
 
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
