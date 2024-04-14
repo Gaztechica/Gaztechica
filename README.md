@@ -1,5 +1,5 @@
 # Привет 👋, я [Евгений !](https://github.com/Gaztechica)    [](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-##  I'm a FrontEnd Developer и QA TESTER
+##  I'm a QA TESTER
 ## Занимаюсь версткой сайтов на HTML / CSS 
 
 - 💪 I like to write code
@@ -147,7 +147,7 @@ https://yndrab@yandex.ru
 a ✨  ✨ 
 
 Here are some ideas to get you started:
-
+I'm a FrontEnd Developer и QA TESTER
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
