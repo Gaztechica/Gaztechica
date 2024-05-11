@@ -5,18 +5,18 @@
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
 ##  Что умею:
-   - Верстаю сайты по макету Figma
-   - Изучаю Java
-   - Умею составлять классные тест-планы;
-   - Создаю детальные баг-репорты;
-   - Разбираюсь в HTTP и REST API;
-   - Пишу простые SQL запросы к БД (умею SELECT и JOIN);
-   - Есть опыт работы с тасктрекером: Trello, Jira и Yandex Tracker;
-   - Работаю с postman: могу создать и пошерить коллекцию запросов и использовать разные environment;
-   - Работаю с devtools: смотрю состав запросов network;
+   - QA automation using Java
+   - Figma
+   - Manual testing with tools like Postman
+   - Составляю классные тест-планы
+   - Создаю детальные баг-репорты
+   - Разбираюсь в HTTP и REST API
+   - Пишу простые SQL запросы к БД (умею SELECT и JOIN)
+   - Работал с тасктрекером: Trello, Jira и Yandex Tracker
+   - Работаю с devtools: смотрю состав запросов network
 
 ## Портфолио 🧰
-  -  [My portfolio](https://gaztechica.github.io/portfolio/)
+  -  [My portfolio](https://github.com/Gaztechica/JenkinsQA_07))
 
 ## Мои контакты
 https://t.me/Eveningan
@@ -59,7 +59,7 @@ https://yndrab@yandex.ru
 
 
 <!--
-
+https://gaztechica.github.io/portfolio/
 <details>
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
