@@ -16,7 +16,7 @@
    - Работаю с devtools: смотрю состав запросов network
 
 ## Портфолио 🧰
-  -  [My portfolio](https://github.com/Gaztechica/JenkinsQA_07)
+  -  [My portfolio](https://github.com/Gaztechica/test_)
 
 ## Мои контакты
 https://t.me/Eveningan
