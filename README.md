@@ -1,6 +1,6 @@
 # Привет 👋, я [Евгений !](https://github.com/Gaztechica)    [](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 ##  I'm a QA Automation Java POM 
-## Занимаюсь версткой сайтов на HTML / CSS 
+## Стек технологий: Java, Selenium, Selenide, Gitlab, Maven, Gradle, Jira, Confluence, Allure, Jenkins, TestNG , Junit, Rest Assured, Cucumber, JMeter, IntelliJ IDEA, Postman, Hoopscotch, Swagger, Grafana, RabbitMQ, Kibana, MySQL, PostgreSQL
 
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
@@ -21,7 +21,7 @@
 ## Мои контакты
 https://t.me/Eveningan
 
-https://yndrab@yandex.ru 
+https://yevgeniy.gor.90@mail.ru  
 <!--
 <br />
 
